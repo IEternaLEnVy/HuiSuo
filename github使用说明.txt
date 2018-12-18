@@ -1,0 +1,14 @@
+git config --global user.name "IEternaLEnVy"        配置账号       
+git config --global user.email 390663286@qq.com     配置注册邮箱	
+https://github.com/IEternaLEnVy/HuiSuo.git          git地址
+
+git add *
+git commit -m "first_commit"  本地文件生效
+git push -u origin master     推送到远端
+
+别人搜索 IEternaLEnVy/HuiSuo 可以找到项目
+右上角fork拷贝到本地自己账号
+edit可以提交代码或者修改 改的是自己的  不是组长的
+pull request可以把修改内容上传到组长那里  
+
+组长可以审核通过 可以修改合并到组长仓库
