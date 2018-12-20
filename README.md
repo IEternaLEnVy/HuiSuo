@@ -33,6 +33,20 @@ spring实现业务对象管理，mybatis作为数据对象的持久化引擎
 
 
 
+
+
+
+
+将项目部署到CloudStation云服务器上,浏览器输入域名直接访问
+http://cloud.rwxfree.cn:7070/hotel/Login/tologin.do
+
+
+
+
+
+
+
+
 driverClassName=com.mysql.jdbc.Driver
 url=jdbc:mysql://127.0.0.1:3306/grogshop?useUnicode=true&characterEncoding=utf-8
 username=root
